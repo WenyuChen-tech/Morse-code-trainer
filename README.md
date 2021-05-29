@@ -26,12 +26,13 @@ Morse Code is a method use in telecommunication which encode letter a to z and A
 
 2.2	Configuration
  
-Fig.1 Circuit Diagram
+Circuit Diagram: see Morsesketch.fzz
+
 The configuration of the Morse Code Trainer is as follow:
 •	Hardware: Arduino UNO microcontroller + Breadboard + LED + Buzzer speaker + Resistor + Pushbutton
 •	Software: Fritzing 0.9.3b + Arduino IDE
-3. FUNCTIONAL REQUIREMENTS 
 
+3. FUNCTIONAL REQUIREMENTS 
 3.1	Summary of Functions
 
 The Morse Code Trainer requires an embedded system based solution for a program whose primary functions are to:
@@ -39,14 +40,13 @@ The Morse Code Trainer requires an embedded system based solution for a program 
 •	The beeper beeps corresponding to the users' input to support him via sound
 •	The display shows the results (right or wrong)
 •	The beeper should produce the correct sequence of beeps corresponding to the character
-3.2	Functional Requirements
 
+3.2	Functional Requirements
 In order to accomplish the above articulated needs, the Morse Code Trainer requires the following functionality:
  
 •	Ability to show random character on OLED
 •	Ability to check if the input is correct
-•	Ability to beep according to the input of button and the correct sequence after
-checking.
+•	Ability to beep according to the input of button and the correct sequence after checking
  
 4. NON-FUNCTIONAL REQUIREMENTS
 4.1	Summary of Non-functional Characters
@@ -54,7 +54,6 @@ checking.
 The non-functional requirements of the Morse Code Trainer describe the system's performance and constraints that enhance its functionality.
 
 4.2	Non-functional Requirements
-
 4.2.1	Reliability
 •	Simple but high quality system, system works more than 360 days per year. Repairs should be completed in one day in the event of a system failure.
 •	Widely used hardware, easy to replace when hardware is damaged.
