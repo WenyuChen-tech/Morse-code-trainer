@@ -29,6 +29,7 @@ Morse Code is a method use in telecommunication which encode letter a to z and A
 2.2	Configuration
  
 Circuit Diagram: see Morsesketch.fzz
+https://github.com/WenyuChen-tech/Morse-code-trainer/blob/main/Sketch.png
 
 The configuration of the Morse Code Trainer is as follow:
 
