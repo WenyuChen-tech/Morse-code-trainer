@@ -9,7 +9,6 @@ Group Member:   Wang Aoli, Chen Wenyu
 Email：aoli.wang@tu-ilmenau.de
        wenyu.chen@tu-ilmenau.de
 
- 
 1. GENERAL INFORMATION
 1.1	Purpose
 
