@@ -1,28 +1,27 @@
 # Morse-code-trainer
 
 
-
-
 Morse Code Trainer
 
 Requirements Analysis
 
-
-
-
-Group Member:   Wang Aoli, Chen Wenyu  
+Group Member:   Wang Aoli, Chen Wenyu
+Email：aoli.wang@tu-ilmenau.de
+       wenyu.chen@tu-ilmenau.de
 
  
 1. GENERAL INFORMATION
 1.1	Purpose
 
 The purpose of this requirements analysis is to provide documentation to the prospective solution of the project “Morse Code Trainer”, and to show necessary elements and functions for this project.
+
 1.2	Scope
 
 This document will outline the description of Morse Code Trainer, functional and non-functional requirements as the proposed solution for our project.
 
 2. DESCRIPTION
 2.1	Outline
+
 Morse Code is a method use in telecommunication which encode letter a to z and Arabic number 0 to 9 as a sequence of two different signal. Our Morse Code Trainer aim to help users send morse code message more efficiently.
 
 2.2	Configuration
