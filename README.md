@@ -94,6 +94,7 @@ The non-functional requirements of the Morse Code Trainer describe the system's 
 |Buzzer speaker|1|
 |LED|1|
 |Button|1|
+|Resistors|3|
 |Jump Line| many|
 ### 2) Wiring Method
 ####  LCD
