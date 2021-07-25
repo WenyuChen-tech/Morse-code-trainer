@@ -6,7 +6,7 @@ Email:
 aoli.wang@tu-ilmenau.de   
 wenyu.chen@tu-ilmenau.de   
     
-MorseCodeTrainer_part1.mp4: discription of this project, explanation of hardware setup and test cases.    
+MorseCodeTrainer_part1.mp4: description of this project, explanation of hardware setup and test cases.    
 MorseCodeTrainer_part2.mp4: explanation of source code.
 ## 1. Design Phase
 ### Requirements Analysis
